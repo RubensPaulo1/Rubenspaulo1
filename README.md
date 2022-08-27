@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/RubensPaulo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensPaulo1&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true";">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenspaulo1&amp;layout=compact&amp;langs_count=7&amp;theme=dark";">
-</a></div><a href="https://github.com/RubensPaulo1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensPaulo1&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenspaulo1&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
+</a></div>
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
