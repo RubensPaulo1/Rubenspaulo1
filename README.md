@@ -1,13 +1,13 @@
-#Hi there, i am Rubens Paulo!
+#Hi there, i'm Rubens Paulo!
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Artificial Neural Network
 - 😄 Pronouns: he/his
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubensPaulo1&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubensPaulo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div>
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RubensPaulo1&show_icons=true" />
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensPaulo1&layout=compact" />
+</div>
+ <br>  <br>  <br>  <br>  <br> 
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
