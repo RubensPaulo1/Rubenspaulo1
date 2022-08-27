@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Artificial Neural Network
 - 😄 Pronouns: he/his
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensPaulo1&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenspaulo1&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
-</a></div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubensPaulo1&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubensPaulo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div dir="auto"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
