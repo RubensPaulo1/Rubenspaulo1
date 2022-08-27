@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Artificial Neural Network
 - 😄 Pronouns: he/his
 
-<div align="center">
-  <a href="https://github.com/RubensPaulo1">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensPaulo1&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenspaulo1&amp;layout=compact&amp;langs_count=7&amp;theme=dark"/>
 </a></div>
